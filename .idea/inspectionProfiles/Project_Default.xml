@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tuple.__sub__" />
+          <option value="env.core.snake.Snake.__add__" />
+          <option value="env.utils.renderer" />
+          <option value="gym.envs.classic_control.rendering" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
